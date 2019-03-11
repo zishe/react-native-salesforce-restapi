@@ -1,6 +1,4 @@
-'use strict';
-
-var ReactNative = require('react-native');
+const ReactNative = require('react-native');
 
 import { SalesforceApiRequest } from './salesforceApiRequest'
 
